@@ -3,7 +3,7 @@ A simple gamble script for QBCORE framework which utilizes interact-sound.
 
 # How To Install
 Drag and drop `razed-cashgamble`\
-In server.cfg add `ensure razed-cashgamble`
+In `server.cfg` add `ensure razed-cashgamble`
 
 # qb-target/init.lua
 ```
@@ -23,7 +23,6 @@ In server.cfg add `ensure razed-cashgamble`
     },
 
 ```
-# End of install
 
 # Dependencies
 [qb-core](https://github.com/qbcore-framework/qb-core)\
@@ -31,5 +30,5 @@ In server.cfg add `ensure razed-cashgamble`
 [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
 # Credits
-Pong Slug - Giving me motivation for my first script.
+Pong Slug - Giving me motivation for my first script.\
 Me - For making the script.
