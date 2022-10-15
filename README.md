@@ -1,4 +1,4 @@
-# Razed-cashgamble
+# Razed Cash Gamble
 A simple gamble script for QBCORE framework which utilizes interact-sound.
 
 ![CashGamble](https://user-images.githubusercontent.com/91488137/195990605-72f0ad8a-860e-41b4-9960-4595cff0926e.png)
