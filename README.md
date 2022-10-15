@@ -1,11 +1,11 @@
 # Razed-cashgamble
 A simple gamble script for QBCORE framework which utilizes interact-sound.
 
-#How To Install
+# How To Install
 Drag and drop `razed-cashgamble`
 In server.cfg add `ensure razed-cashgamble`
 
-#qb-target/init.lua
+# qb-target/init.lua
 ```
 	["GambleCash"] = {
         models = {
@@ -23,8 +23,9 @@ In server.cfg add `ensure razed-cashgamble`
     },
 
 ```
+# End of install
 
-#Dependencies
+# Dependencies
 [qb-core](https://github.com/qbcore-framework/qb-core)
 [qb-target](https://github.com/qbcore-framework/qb-target)
 [qb-menu](https://github.com/qbcore-framework/qb-menu)
