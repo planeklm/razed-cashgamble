@@ -29,7 +29,8 @@ In `server.cfg` add `ensure razed-cashgamble`
 # Dependencies
 [qb-core](https://github.com/qbcore-framework/qb-core)\
 [qb-target](https://github.com/qbcore-framework/qb-target)\
-[qb-menu](https://github.com/qbcore-framework/qb-menu)
+[qb-menu](https://github.com/qbcore-framework/qb-menu)\
+[interact-sound](https://github.com/qbcore-framework/interact-sound)
 
 # Credits
 Pong Slug - Giving me motivation for my first script.\
