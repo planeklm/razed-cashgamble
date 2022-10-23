@@ -3,7 +3,7 @@ A simple gamble script for QBCORE framework which utilizes interact-sound.
 
 # THIS RESOURCE IS NOT BEING MAINTAINED OR UPDATED
 
-![CashGamble](https://user-images.githubusercontent.com/91488137/195990605-72f0ad8a-860e-41b4-9960-4595cff0926e.png)
+![RazedCashGambleThumbnail](https://user-images.githubusercontent.com/91488137/197401411-352f680e-a60b-448f-811e-2dc846e5bf7b.png)
 
 # How To Install
 Drag and drop `razed-cashgamble`\
