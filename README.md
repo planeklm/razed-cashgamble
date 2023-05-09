@@ -1,7 +1,7 @@
 # Cash Gamble by Razed
 A simple gamble script for QBCORE framework which utilizes interact-sound.
 
-# THIS RESOURCE IS NOT BEING MAINTAINED - however pull requests will be accepted!
+# THIS RESOURCE IS NOT BEING MAINTAINED
 
 ![RazedCashGambleThumbnail](https://user-images.githubusercontent.com/91488137/197401411-352f680e-a60b-448f-811e-2dc846e5bf7b.png)
 
